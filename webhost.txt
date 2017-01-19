@@ -1,0 +1,5 @@
+$mysql_host = "mysql12.000webhost.com";
+$mysql_database = "a9171887_labmast";
+$mysql_user = "a9171887_labuser";
+$mysql_password = "administrador2011";
+
